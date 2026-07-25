@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=29&pause=1000&color=C29C23&background=040000F9&width=435&lines=Bem-vindo+visitante">
 
 <!--
 **mikeyuritaniguti/mikeyuritaniguti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
