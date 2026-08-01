@@ -5,8 +5,8 @@
 </div>
 
 
-<img width="1000" height="200" alt="that glint in your eyes_" src="https://github.com/user-attachments/assets/4cb930fb-1aeb-4c98-bc9f-cfba001bd457" />
 
+<img width="1200" height="300" alt="download (1)" src="https://github.com/user-attachments/assets/c779a9fd-3e27-4738-a624-fd2598a46163" />
 
 
 
