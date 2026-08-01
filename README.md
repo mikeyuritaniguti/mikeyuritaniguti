@@ -65,6 +65,11 @@ Atualmente cursando Analise e Desenvolvimento de Sistemas no Senai, aprofundando
 
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=A90000FF)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=A90000FF)
+---
+
+
+
+ 
 
 
 
@@ -76,6 +81,9 @@ Atualmente cursando Analise e Desenvolvimento de Sistemas no Senai, aprofundando
 
 
 
+
+
+---
 <img data-importer="snake" src="https://raw.githubusercontent.com/mikeyuritaniguti/mikeyuritaniguti/snake-output/snake.svg" alt="Snake animation" />
 
 ###
