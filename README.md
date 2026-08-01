@@ -19,8 +19,11 @@ Atualmente cursando Analise e Desenvolvimento de Sistemas no Senai, aprofundando
 
 
 
+---
 
 
+
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=A90000FF)
 
 
 
