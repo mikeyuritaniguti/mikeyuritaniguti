@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=A90000FF&center=true&vCenter=true&width=600&lines=Seja+bem-vindo,+visitante." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=A90000FF&center=true&vCenter=true&width=600&lines=Seja+bem-vindo,+visitante;Me+chame+de+Mike." alt="Typing SVG"/>
 </div>
 
 
@@ -11,12 +11,11 @@
 
 
 
+---
 
+*Desenvolvedor em treinamento*
 
-## Statistics
-
-
-
+Atualmente cursando Analise e Desenvolvimento de Sistemas no Senai, aprofundando meus conhecimentos e os compartilhando.  
 
 
 
