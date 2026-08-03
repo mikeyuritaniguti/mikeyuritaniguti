@@ -16,7 +16,7 @@
 
 *Desenvolvedor em treinamento*
 
-Atualmente cursando Analise e Desenvolvimento de Sistemas no Senai, aprofundando meus conhecimentos e os compartilhando.  
+Atualmente cursando Desenvolvimento de Sistemas no Senai, aprofundando meus conhecimentos e os compartilhando.  
 
 
 <br/><br/>
