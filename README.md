@@ -1,12 +1,6 @@
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=A90000FF&center=true&vCenter=true&width=600&lines=Seja+bem-vindo,+visitante;Me+chame+de+Mike." alt="Typing SVG"/>
-</div>
 
-
-
-<img width="1200" height="300" alt="download (1)" src="https://github.com/user-attachments/assets/c779a9fd-3e27-4738-a624-fd2598a46163" />
 
 
 
@@ -29,11 +23,6 @@ Atualmente cursando Desenvolvimento de Sistemas no Senai, aprofundando meus conh
 <td align="left" width="50%">
 
 <div style="background-color:#111; padding:20px 25px; border-radius:12px;">
-
-<pre>
-◈  Class     →  Backend / Full-Stack Apprentice
-◈  Origin    →  Brazil 🇧🇷
-</pre>
 
 </div>
 
